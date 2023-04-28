@@ -1,0 +1,27 @@
+body
+{
+    background-image: linear-gradient(to left, darkred, black);
+}
+label
+{
+    color: rgba(240, 248, 255, 0.774);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+form
+{
+    position: absolute;
+    padding-left: 60%;
+    padding-top: 5%;
+}
+h1
+{
+    color: rgba(240, 248, 255, 0.774);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+input{
+    background-color: black;
+}::placeholder{
+    color: rgba(240, 248, 255, 0.600);
+}
